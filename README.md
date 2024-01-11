@@ -37,12 +37,6 @@ April 2023
 - Created a frontend web app with CSS and Bootstrap5 for improved responsiveness.
 - Generated a coherent and scalable database with Django allowing secure user interaction.
 
-
-## My Contributions
-
-- [Project XYZ](https://github.com/owner/project-xyz): [Commit 1](https://github.com/owner/project-xyz/commit/abcdef123), [Commit 2](https://github.com/owner/project-xyz/commit/ghijkl456), ...
-- [Awesome Project](https://github.com/anotherowner/awesome-project): [Commit 3](https://github.com/anotherowner/awesome-project/commit/mnopqr789), [Commit 4](https://github.com/anotherowner/awesome-project/commit/stuvwx123), ...
-
 ## Tech Stack
 
 - Languages: Python, JavaScript
